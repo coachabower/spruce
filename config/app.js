@@ -14,7 +14,7 @@ module.exports = {
   author: "Divy Srivastava",
   version: "2.0.0",
   db: {
-    connectionUri: "mongodb+srv://" + dbHost + ":27017/spruce",
+    connectionUri: "mongodb+srv://" + dbHost + "/spruce",
     params: {},
     collections: ["moment", "user", "feeling", "ask"]
   }
