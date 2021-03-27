@@ -9,7 +9,7 @@ module.exports = {
   },
   http: {
     host: "localhost",
-    port: 8000
+    port: 8080
   },
   author: "Divy Srivastava",
   version: "2.0.0",
